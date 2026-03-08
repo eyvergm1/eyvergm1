@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2b2b2b&height=220&section=header&text=Eyver%20Gómez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<!--
-**eyvergm1/eyvergm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building clean, performant and accessible web interfaces.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+React · TypeScript · Next.js · Vue · Tailwind CSS
+</p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=eyvergm1&data=followers,repositories,stars,commits&theme=darkmode" width="480"/>
+</p>
